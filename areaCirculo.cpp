@@ -19,6 +19,8 @@ int main()
 	area = PI *( RADIUS*RADIUS);   //computes area.
 
 	cout << "La circunferencia es de" << circumference << endl;
+	
+	cuot <<"Y el area es" << area << endl;
 
 	return 0;
 
